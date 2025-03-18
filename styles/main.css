@@ -1,0 +1,16 @@
+body {
+  background-image: url('../images/win94.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+
+  font-family: Arial, Helvetica, sans-serif;
+
+  display: flex;
+  margin: 0;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
